@@ -1,0 +1,41 @@
+{
+  "_type": "https://supply-chain-tools.github.io/schemas/gitverify/v0.1",
+  "identities": [
+    {
+      "email": "wayphinder@gmail.com",
+      "forgeUsername" : "stiankri",
+      "forgeUserId": "4949026",
+      "sshPublicKeys": [
+        "sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIBh2KlFNTGTL9wyKsXYXdXQ3M/IfqEFuJ1SF8yQVlcffAAAABHNzaDo="
+      ]
+    }
+  ],
+  "maintainers": [
+    "wayphinder@gmail.com"
+  ],
+  "rules": {
+    "allowSshSignatures": true,
+    "requireSshUserPresent": true,
+    "requireSshUserVerified": false,
+    "allowGpgSignatures": false,
+    "requireSignedTags": true,
+    "requireMergeCommits": true,
+    "requireUpToDate": true
+  },
+  "forgeId": "github.com",
+  "forgeRules": {
+    "allowMergeCommits": false,
+    "allowContentCommits": false
+  },
+  "protectedBranches": ["main"],
+  "repositories": [
+    {
+      "uri": "git+https://github.com/tinfoil-factory/netfoil.git",
+      "after": [{
+        "sha1": "4175add468620a711ec42450f61b7d8269d5e785",
+        "sha512": "dbd160ea521f9a3a5732f36cf4707037d9ae55f9a82b9daff13765514fdd9e0b2f3c380ad290c75f72f32f52535141790bf47e194fa28062dce4b2de5c30e872",
+        "branch": "main"
+      }]
+    }
+  ]
+}
