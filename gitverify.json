@@ -31,10 +31,16 @@
   "repositories": [
     {
       "uri": "git+https://github.com/tinfoil-factory/netfoil.git",
+      "protectedBranches": ["main", "ext"],
       "after": [{
-        "sha1": "4175add468620a711ec42450f61b7d8269d5e785",
-        "sha512": "dbd160ea521f9a3a5732f36cf4707037d9ae55f9a82b9daff13765514fdd9e0b2f3c380ad290c75f72f32f52535141790bf47e194fa28062dce4b2de5c30e872",
+        "sha1": "352bfce7e213d8a2700bee68090e3dd33e6495b4",
+        "sha512": "299e13a135b079bd97a92ceefa6883c98b521396f20083c98cf7469b7b59f9073ca79916312cc9b66febd5098459bb17bcb894a0a0314956d52f253359276ecb",
         "branch": "main"
+      },
+      {
+        "sha1": "0d037892db8009b63d490f1f2bf274c7c2b2555b",
+        "sha512": "0aae794fdfa117d067f48de14fe338548be47fccc69a3101228722040fe60cd6a11f3444b3ff9bec35a9f83ecfcb26b7b9de5be0a5dbb88fe42d53b7e2c2cf80",
+        "branch": "ext"
       }]
     },
     {
