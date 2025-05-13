@@ -30,6 +30,14 @@
   "protectedBranches": ["main"],
   "repositories": [
     {
+      "uri": "git+https://github.com/tinfoil-factory/netfoil.git",
+      "after": [{
+        "sha1": "ed378c45147c0bd8c7172bfeb3c06e166e80c87a",
+        "sha512": "f2ad2af5ba2798743b7b0a94003329d3053adfa44fb0e3cb5f1b49e5096f026769b1dc323ba123adf92106194955c5d3e1bda2ea474ea08777d2b082ce833c3b",
+        "branch": "main"
+      }]
+    },
+    {
       "uri": "git+https://github.com/tinfoil-factory/netfoil-staging.git",
       "protectedBranches": ["main", "ext"],
       "after": [{
