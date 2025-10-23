@@ -62,6 +62,14 @@
       }]
     },
     {
+      "uri": "git+https://github.com/tinfoil-factory/key-attestation.git",
+      "after": [{
+        "sha1": "87ae4223a288d50fedb388825f1cdf1c3358ef87",
+        "sha512": "ce06366b98b8f324b5b39e08b447990f5f423307c3e5b0a4cf9999d694bae2b243c5475fa39fb266e01f136cbae992b954df51257665f20fdf82996b35dc3f0b",
+        "branch": "main"
+      }]
+    },
+    {
       "uri": "git+https://github.com/tinfoil-factory/root-of-trust.git",
       "after": [{
         "sha1": "8cfdcb775072b4f9f7e58287c2543276b547b4d4",
