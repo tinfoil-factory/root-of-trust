@@ -40,6 +40,14 @@
       }]
     },
     {
+      "uri": "git+https://github.com/tinfoil-factory/entropy.git",
+      "after": [{
+        "sha1": "0d4240d51ba06390eabb9822cfc974fd4991ab61",
+        "sha512": "795836c031e8852060ef8c7a950c95f5acad8bae0e84857662c1a6036dbac888d2439912aa2566dfd3570e2678a67f12196273f81080f30dfc6cd7250810a30b",
+        "branch": "main"
+      }]
+    },
+    {
       "uri": "git+https://github.com/tinfoil-factory/netfoil-staging.git",
       "protectedBranches": ["main", "ext"],
       "after": [{
