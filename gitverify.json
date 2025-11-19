@@ -6,7 +6,6 @@
       "forgeUsername" : "stiankri",
       "forgeUserId": "4949026",
       "sshPublicKeys": [
-        "sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIBh2KlFNTGTL9wyKsXYXdXQ3M/IfqEFuJ1SF8yQVlcffAAAABHNzaDo=",
         "sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIAkE2znkmzUWth3hkb+DdBWu3/nYoJhmEVUfSmZaYMOPAAAABHNzaDo=",
         "sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAICtP54u1mYxQS24nbdlxNvJcZT0XDnGytUqV0iJq4fYbAAAABHNzaDo="
       ]
@@ -34,8 +33,8 @@
     {
       "uri": "git+https://github.com/tinfoil-factory/netfoil.git",
       "after": [{
-        "sha1": "ed378c45147c0bd8c7172bfeb3c06e166e80c87a",
-        "sha512": "f2ad2af5ba2798743b7b0a94003329d3053adfa44fb0e3cb5f1b49e5096f026769b1dc323ba123adf92106194955c5d3e1bda2ea474ea08777d2b082ce833c3b",
+        "sha1": "1715ea01caa39d70360a0159c0e3fed787000dd3",
+        "sha512": "e059ad5c96f3d1f8d445b6e15a8a1971a6072e42e4184ccaa5d96983df6aa01adeb0449a8b77f1cd39d9ed8f906dd5b5f9b4bb25b3e5ab042093ab6176c95bf9",
         "branch": "main"
       }]
     },
@@ -51,8 +50,8 @@
       "uri": "git+https://github.com/tinfoil-factory/netfoil-staging.git",
       "protectedBranches": ["main", "ext"],
       "after": [{
-        "sha1": "352bfce7e213d8a2700bee68090e3dd33e6495b4",
-        "sha512": "299e13a135b079bd97a92ceefa6883c98b521396f20083c98cf7469b7b59f9073ca79916312cc9b66febd5098459bb17bcb894a0a0314956d52f253359276ecb",
+        "sha1": "cd89a20f503e6ea92be5448d6f26c92f10963d45",
+        "sha512": "a33a9e58c17c2905b3e8abe3e21e42bcc2d54baec79bfb14574fd0c0184cc4304273371833b69ac95646ba1dce2fd3152cde47a6a529ac0d94e7ecd0b5334001",
         "branch": "main"
       },
       {
@@ -64,24 +63,16 @@
     {
       "uri": "git+https://github.com/tinfoil-factory/sandbox.git",
       "after": [{
-        "sha1": "eb7a91c5bf4b1fb03ee898f1407d1dd6b98a38ed",
-        "sha512": "f9989b1caf726c4a2153aa75d96f1c705bf2915ab936d4526f02a4faa3e9f2a1484b8f2e3a84129638f14609e1b8fe1f993ed4c5caebe5e42c9c2aef961bec6f",
-        "branch": "main"
-      }]
-    },
-    {
-      "uri": "git+https://github.com/tinfoil-factory/key-attestation.git",
-      "after": [{
-        "sha1": "87ae4223a288d50fedb388825f1cdf1c3358ef87",
-        "sha512": "ce06366b98b8f324b5b39e08b447990f5f423307c3e5b0a4cf9999d694bae2b243c5475fa39fb266e01f136cbae992b954df51257665f20fdf82996b35dc3f0b",
+        "sha1": "e31d68f1610975b7f8f307ca69cae0c73ef192be",
+        "sha512": "61bff72c4924460c6837a62b723d77604a04590fb0e7145fb750fd9cbe668132daaa9ae57734f26b44b8526184562b64304988a3bc66492395e4de2c8401ab13",
         "branch": "main"
       }]
     },
     {
       "uri": "git+https://github.com/tinfoil-factory/root-of-trust.git",
       "after": [{
-        "sha1": "8cfdcb775072b4f9f7e58287c2543276b547b4d4",
-        "sha512": "bf975c4066af0d64027f28efa188edfb9722c63b5ed6c4c41a3cf7661fdc58f3e6911daf80119fca18781a11d19cf6f61bb911165e850d632a043ec9a88be352",
+        "sha1": "09e347c3c3f17f08234cce22ef3f84352b24f6e8",
+        "sha512": "96eeb59124b362341e7f0a8f24e1fdb049f2a0c03cb21542c197baa10405e688ce81f6a0a23efbf41a79e2dbd7ee5c586de3c2769e2b98db8da4272609570cc5",
         "branch": "main"
       }]
     }
