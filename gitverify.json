@@ -31,7 +31,8 @@
     "allowGpgSignatures": false,
     "requireSignedTags": true,
     "requireMergeCommits": true,
-    "requireUpToDate": true
+    "requireUpToDate": true,
+    "requireMergeTags": true
   },
   "forgeId": "github.com",
   "forgeRules": {
