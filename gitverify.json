@@ -43,16 +43,16 @@
     {
       "uri": "git+https://github.com/tinfoil-factory/netfoil.git",
       "after": [{
-        "sha1": "1715ea01caa39d70360a0159c0e3fed787000dd3",
-        "sha512": "e059ad5c96f3d1f8d445b6e15a8a1971a6072e42e4184ccaa5d96983df6aa01adeb0449a8b77f1cd39d9ed8f906dd5b5f9b4bb25b3e5ab042093ab6176c95bf9",
+        "sha1": "73c7152a89e91f26fa92c0a75307f2a413e26f9d",
+        "sha512": "e4c8cda441aa9bc54c17fdb1d9111ce2875485f59721f1d692a7c99716c69078ed2469fb45bba71fc6641281d14ba0beab30c95cc8e176de2f75393e690f6365",
         "branch": "main"
       }]
     },
     {
       "uri": "git+https://github.com/tinfoil-factory/entropy.git",
       "after": [{
-        "sha1": "0d4240d51ba06390eabb9822cfc974fd4991ab61",
-        "sha512": "795836c031e8852060ef8c7a950c95f5acad8bae0e84857662c1a6036dbac888d2439912aa2566dfd3570e2678a67f12196273f81080f30dfc6cd7250810a30b",
+        "sha1": "d73a3e5ea61277ebe8dc7be7a355663953268864",
+        "sha512": "beec04f127302c52cba76ffcf685f724162bb819e86c3bd6671b2b62a50bc142765c586c083e7973172fd0d562ecfcf77932ccf9e2f8dc8b0ee09a664825f707",
         "branch": "main"
       }]
     },
@@ -73,16 +73,16 @@
     {
       "uri": "git+https://github.com/tinfoil-factory/sandbox.git",
       "after": [{
-        "sha1": "e31d68f1610975b7f8f307ca69cae0c73ef192be",
-        "sha512": "61bff72c4924460c6837a62b723d77604a04590fb0e7145fb750fd9cbe668132daaa9ae57734f26b44b8526184562b64304988a3bc66492395e4de2c8401ab13",
+        "sha1": "4914a2afc0053a9e7eddc8559cf8351f51e73048",
+        "sha512": "a47e872529effbf12eaba9b6dd36d898e9ae9a916b553536de0e6aeed875a6a82e5a871b87feaab7c9700ceaefc301f449442cb169c96d080e567375c28dae2f",
         "branch": "main"
       }]
     },
     {
       "uri": "git+https://github.com/tinfoil-factory/root-of-trust.git",
       "after": [{
-        "sha1": "09e347c3c3f17f08234cce22ef3f84352b24f6e8",
-        "sha512": "96eeb59124b362341e7f0a8f24e1fdb049f2a0c03cb21542c197baa10405e688ce81f6a0a23efbf41a79e2dbd7ee5c586de3c2769e2b98db8da4272609570cc5",
+        "sha1": "8add7f2dcb547091d2a83c57ee7093abad0a1542",
+        "sha512": "2ec878d679567e5ebf3beec46f4058c61b02a5a1dc2c0c32158f25375132c605f2613595bc4ad0bfb8e686ce099f9c8b2863f5f9778f69186143582641fe9bd7",
         "branch": "main"
       }]
     }
