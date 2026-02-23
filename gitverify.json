@@ -9,10 +9,20 @@
         "sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIAkE2znkmzUWth3hkb+DdBWu3/nYoJhmEVUfSmZaYMOPAAAABHNzaDo=",
         "sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAICtP54u1mYxQS24nbdlxNvJcZT0XDnGytUqV0iJq4fYbAAAABHNzaDo="
       ]
+    },
+    {
+      "email": "wayphinder+3fa@gmail.com",
+      "forgeUsername" : "stiankri-3fa",
+      "forgeUserId": "197802355",
+      "sshPublicKeys": [
+        "sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAINoW4ffJb9KfnfvVmXUlifdplEoB6buLIWr8U03/7GKMAAAABHNzaDo=",
+        "sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAICp7nTuhQBiS23sSy0n+vujUXY93m6tormybr1OatPm5AAAABHNzaDo="
+      ]
     }
   ],
   "maintainers": [
-    "wayphinder@gmail.com"
+    "wayphinder@gmail.com",
+    "wayphinder+3fa@gmail.com"
   ],
   "rules": {
     "allowSshSignatures": true,
