@@ -32,7 +32,7 @@
     "requireSignedTags": true,
     "requireMergeCommits": true,
     "requireUpToDate": true,
-    "requireMergeTags": true
+    "requireCountersigning": true
   },
   "forgeId": "github.com",
   "forgeRules": {
