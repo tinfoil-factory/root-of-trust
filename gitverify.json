@@ -32,7 +32,8 @@
     "requireSignedTags": true,
     "requireMergeCommits": true,
     "requireUpToDate": true,
-    "requireCountersigning": true
+    "requireCountersigning": true,
+    "requireSha512": true
   },
   "forgeId": "github.com",
   "forgeRules": {
@@ -82,8 +83,8 @@
     {
       "uri": "git+https://github.com/tinfoil-factory/root-of-trust.git",
       "after": [{
-        "sha1": "8add7f2dcb547091d2a83c57ee7093abad0a1542",
-        "sha512": "2ec878d679567e5ebf3beec46f4058c61b02a5a1dc2c0c32158f25375132c605f2613595bc4ad0bfb8e686ce099f9c8b2863f5f9778f69186143582641fe9bd7",
+        "sha1": "4da862eba3634ec8d084759129ef5ddbdced4ea8",
+        "sha512": "268ba35a5e73f2c169abcc7d60434312fb30c5d59fd0b1089173854551a1a0d6f64a92a1fd482a3076a4ed27ae51cd107930e1823e43c4c5fe8eaf6940ec2f9e",
         "branch": "main"
       }]
     }
