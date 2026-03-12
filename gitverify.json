@@ -83,8 +83,8 @@
     {
       "uri": "git+https://github.com/tinfoil-factory/root-of-trust.git",
       "after": [{
-        "sha1": "4da862eba3634ec8d084759129ef5ddbdced4ea8",
-        "sha512": "268ba35a5e73f2c169abcc7d60434312fb30c5d59fd0b1089173854551a1a0d6f64a92a1fd482a3076a4ed27ae51cd107930e1823e43c4c5fe8eaf6940ec2f9e",
+        "sha1": "bebccc16a01581caa9e5a4d82b8a9c290ed5647b",
+        "sha512": "4ae9ced174d0e525abf561e60b852a293c9417d3a1f031f7a68820ddc7b551e9783f2e9ade21ed8403855eb53d14d0acd1f1928b8bae444580e22115321e5638",
         "branch": "main"
       }]
     }
