@@ -75,8 +75,8 @@
     {
       "uri": "git+https://github.com/tinfoil-factory/sandbox.git",
       "after": [{
-        "sha1": "4914a2afc0053a9e7eddc8559cf8351f51e73048",
-        "sha512": "a47e872529effbf12eaba9b6dd36d898e9ae9a916b553536de0e6aeed875a6a82e5a871b87feaab7c9700ceaefc301f449442cb169c96d080e567375c28dae2f",
+        "sha1": "5c696b1a40f1aa894f990e0c74c01a2e9b2f3c92",
+        "sha512": "7d08a11e5e13ee70f6709b7577fea3ecaa4780605f5ebbd4f191becde5520d8cc986fcea8590e679b93352937352cc59ccbc42872e9fb3e1b2dc7d441f7d9ebc",
         "branch": "main"
       }]
     },
