@@ -59,28 +59,6 @@
       }]
     },
     {
-      "uri": "git+https://github.com/tinfoil-factory/netfoil-staging.git",
-      "protectedBranches": ["main", "ext"],
-      "after": [{
-        "sha1": "cd89a20f503e6ea92be5448d6f26c92f10963d45",
-        "sha512": "a33a9e58c17c2905b3e8abe3e21e42bcc2d54baec79bfb14574fd0c0184cc4304273371833b69ac95646ba1dce2fd3152cde47a6a529ac0d94e7ecd0b5334001",
-        "branch": "main"
-      },
-      {
-        "sha1": "0d037892db8009b63d490f1f2bf274c7c2b2555b",
-        "sha512": "0aae794fdfa117d067f48de14fe338548be47fccc69a3101228722040fe60cd6a11f3444b3ff9bec35a9f83ecfcb26b7b9de5be0a5dbb88fe42d53b7e2c2cf80",
-        "branch": "ext"
-      }]
-    },
-    {
-      "uri": "git+https://github.com/tinfoil-factory/sandbox.git",
-      "after": [{
-        "sha1": "5c696b1a40f1aa894f990e0c74c01a2e9b2f3c92",
-        "sha512": "7d08a11e5e13ee70f6709b7577fea3ecaa4780605f5ebbd4f191becde5520d8cc986fcea8590e679b93352937352cc59ccbc42872e9fb3e1b2dc7d441f7d9ebc",
-        "branch": "main"
-      }]
-    },
-    {
       "uri": "git+https://github.com/tinfoil-factory/root-of-trust.git",
       "after": [{
         "sha1": "bebccc16a01581caa9e5a4d82b8a9c290ed5647b",
