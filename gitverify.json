@@ -1,5 +1,5 @@
 {
-  "_type": "https://supply-chain-tools.github.io/schemas/gitverify/v0.1",
+  "_type": "https://supply-chain-tools.github.io/schemas/gitverify/v0.2",
   "identities": [
     {
       "email": "wayphinder@gmail.com",
@@ -31,15 +31,10 @@
     "allowGpgSignatures": false,
     "requireSignedTags": true,
     "requireMergeCommits": true,
-    "requireUpToDate": true,
     "requireCountersigning": true,
     "requireSha512": true
   },
-  "forgeId": "github.com",
-  "forgeRules": {
-    "allowMergeCommits": false,
-    "allowContentCommits": false
-  },
+  "trustedForge": null,
   "protectedBranches": ["main"],
   "repositories": [
     {
